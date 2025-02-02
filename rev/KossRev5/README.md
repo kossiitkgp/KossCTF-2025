@@ -1,6 +1,6 @@
 # Taking the Responsibility  
 **Flag:** `kossCTF{REVERSEENGINEERING}`  
-**Author:** `Himesh-Kundal`  
+**Author:** `premagarwals`  
 
 ## Description  
 At last, he was able to find out the truth. His father had a lot of debt, which he was unable to pay. Can Leo clear the debt?  
