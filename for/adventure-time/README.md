@@ -9,7 +9,11 @@ Description:
 
 ---
 
-Just use strings
+You are given the image `master-of-puppets.jpg`
+
+![master-of-puppets](./master-of-puppets.jpg)
+
+From the description, and in general as well just use strings
 
 ```sh
 strings master-of-puppets.jpg
