@@ -14,7 +14,7 @@ Description:
 
 ---
 
-Just look a webarchive of the website of KCSTC. 
+Just look for a webarchive of the website of KCSTC. I believe [MetaWiki](https://wiki.metakgp.org/w/Kalpana_Chawla_Space_Technology_Cell) links to an archived version as well
 
 [KCSTC Archive](https://webcf.waybackmachine.org/web/20220811070413/http://www.kcstc.iitkgp.ernet.in/eminent_guests.html)
 
