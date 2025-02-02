@@ -4,6 +4,10 @@ This repository contains official **source code** and **writeups** for challenge
 
 Link to the Presentation: [KOSS Cybersecurity Workshop 2025](https://www.canva.com/design/DAGdHz6JQJg/Q_JS19H7V52mk6kTZXqhhQ/view?utm_content=DAGdHz6JQJg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5037fc3e63)
 
+Check out our writeups at [kossiitkgp/ctf-writeups](https://github.com/kossiitkgp/ctf-writeups/)
+
+Try out more CTFs at [CTFtime](https://ctftime.org)
+
 ### Scoreboard (top 15)
 
 ![Scoreboard](./scoreboard.png)
