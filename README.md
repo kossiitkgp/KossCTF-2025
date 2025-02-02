@@ -2,6 +2,8 @@
 
 This repository contains official **source code** and **writeups** for challenges from **KOSS CTF 2025**
 
+Link to the Presentation: [KOSS Cybersecurity Workshop 2025](https://www.canva.com/design/DAGdHz6JQJg/Q_JS19H7V52mk6kTZXqhhQ/view?utm_content=DAGdHz6JQJg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5037fc3e63)
+
 ### Scoreboard (top 15)
 
 ![Scoreboard](./scoreboard.png)
@@ -12,7 +14,7 @@ This repository contains official **source code** and **writeups** for challenge
 | --------------------------------------- | ----- |
 | Total Registered Players                | 60    |
 | Players that solve at least one challenge | 52 |
-| Total Number of Challenges              | 19    |
+| Total Number of Challenges              | 20    |
 
 
 #### Challenges
