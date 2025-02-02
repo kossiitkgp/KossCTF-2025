@@ -1,0 +1,72 @@
+body {
+  background-color: #F5E6CC;
+  font-family: 'Poppins', sans-serif;
+  color: #5a4b3b;
+  text-align: center;
+}
+
+header {
+  background-color: #FFC0CB;
+  padding: 20px;
+  font-size: 2em;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.full-width-img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.character-grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  text-align: left;
+}
+
+.character img {
+  width: 120px;
+  border-radius: 50%;
+}
+
+#song-list,
+#tea-parties {
+  text-align: left;
+}
+
+#music-player {
+  background-color: #ffdfba;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#music-screen {
+  background-color: #ffe4e1;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+#progress-bar {
+  width: 80%;
+  background: #ffcccb;
+  margin: auto;
+  height: 12px;
+  position: relative;
+}
+
+#progress {
+  width: 0;
+  height: 100%;
+  background: #ff5733;
+}
+
+#controls button {
+  font-size: 20px;
+  margin: 5px;
+}

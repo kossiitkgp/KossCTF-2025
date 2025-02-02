@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K-On! Fan Page</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to the World of K-On!</h1>
+    </header>
+
+    <section id="intro">
+        <div class="container">
+            <img src="https://vignette.wikia.nocookie.net/k-on/images/e/e6/HTT_group_image_2.png/revision/latest/scale-to-width-down/2000?cb=20131209224919" alt="K-On! Group" class="full-width-img">
+            <p>
+                K-On! is a heartwarming anime by <strong>Kyoto Animation</strong>, based on Kakifly's manga. 
+                It follows a group of high school girls who form a band in their light music club. 
+                Their journey is filled with fun, friendship, and, of course, <em>Mugi’s delicious tea parties!</em>
+            </p>
+        </div>
+    </section>
+
+    <section id="characters">
+        <h2>Main Characters</h2>
+        <div class="character-grid">
+            <div class="character">
+                <img src="https://s1.zerochan.net/Hirasawa.Yui.600.982848.jpg" alt="Yui Hirasawa">
+                <p><strong>Yui Hirasawa</strong><br>Carefree lead guitarist</p>
+            </div>
+            <div class="character">
+                <img src="https://64.media.tumblr.com/9e0ca18dcd31213950d2868a1ff287a6/tumblr_n6c8gkEMdP1tta49lo1_500.gif" alt="Mio Akiyama">
+                <p><strong>Mio Akiyama</strong><br>Shy bassist & songwriter</p>
+            </div>
+            <div class="character">
+                <img src="http://pa1.narvii.com/5716/0efcc229e3da3ba88b53e91b0d6d39c081b97381_hq.gif" alt="Ritsu Tainaka">
+                <p><strong>Ritsu Tainaka</strong><br>Energetic drummer</p>
+            </div>
+            <div class="character">
+                <img src="https://preview.redd.it/dmlh91lsoqq61.png?width=960&crop=smart&auto=webp&s=db102b3c9821041440b63b97dff448cab79f9e19" alt="Tsumugi Kotobuki">
+                <p><strong>Tsumugi Kotobuki</strong><br>Tea-loving keyboardist</p>
+            </div>
+            <div class="character">
+                <img src="https://media.tenor.com/oLkgGSINgTQAAAAd/azusa-kon.gif" alt="Azusa Nakano">
+                <p><strong>Azusa Nakano</strong><br>Diligent junior guitarist</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="tea-parties">
+        <h2>Mugi’s Famous Tea Parties</h2>
+        <p>Mugi’s tea parties are a core part of the club! The girls love to enjoy tea, biscuits, and sweets before practice. Here are some of their favorites:</p>
+        <ul>
+            <li>Black Tea (Earl Grey)</li>
+            <li>Shortbread & Butter Cookies</li>
+            <li>All sorts of Cookies! They really love Cookies!</li>
+        </ul>
+        <div style="display: flex; justify-content: center; align-items: center;">
+            <img width="600px" src="https://i.pinimg.com/736x/e8/8d/4d/e88d4d824f67183d11629a442c90a4ad.jpg" alt="Tea and biscuits">
+        </div>
+    </section>
+
+    <section id="music">
+        <div id="music-player">
+        <h2>Music of K-On!</h2>
+            <div id="music-screen">
+                <img id="album-art" width="450px" src="https://i2.wp.com/blog.animeinstrumentality.net/wp-content/uploads/2009/06/k-on-album-cover.jpg" alt="Album Art">
+                <p id="current-song">Select a song</p>
+                <div id="progress-bar">
+                    <div id="progress"></div>
+                </div>
+            </div>
+            <div id="controls">
+                <button id="prev-btn">⏮</button>
+                <button id="play-btn">▶</button>
+                <button id="next-btn">⏭</button>
+            </div>
+            <ul id="song-list">
+                <li data-src="assets/songs/no-thank-you.mp3">No, Thank You!</li>
+                <li data-src="assets/songs/cagayake-girls.mp3">Cagayake! GIRLS</li>
+                <li data-src="assets/songs/dont-say-lazy.mp3">Don't Say "Lazy"</li>
+                <li data-src="assets/songs/listen.mp3">Listen!!</li>
+            </ul>
+        </div>
+    </section>
+
+</body>
+</html>
