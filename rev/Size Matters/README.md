@@ -11,7 +11,7 @@ Description:
 >  via multiple inputs and ways!!
 > unraveling layers of code to uncover what his father was hiding.
 
-Go to the [dogbolt.org](https://dogbolt.org), then upload `kossrev2` there.
+Go to the [dogbolt.org](https://dogbolt.org), then upload `kossrev4` there.
 try out any decompiler that's giving easier output.
 I can see the following in output code from `Binary Ninja`:
 
