@@ -21,4 +21,4 @@ The text reads "SMOFZQA JDFV". Let's decode this with [DCode](https://dcode.fr/e
 
 ![flag](./flag.png)
 
-Now just this enter this in the flag format.
+Now just enter this in the flag format.
