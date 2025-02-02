@@ -19,4 +19,4 @@ We can decode this with [DCode](https://dcode.fr/en).
 
 This immediately gave us our flag. 
 
-![flag]{./flag.png}
+![flag](./flag.png)
