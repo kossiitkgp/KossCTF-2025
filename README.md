@@ -2,7 +2,7 @@
 
 This repository contains official **source code** and **writeups** for challenges from **KOSS CTF 2025**
 
-<!-- ![Scoreboard]() -->
+![Scoreboard](./scoreboard.png)
 
 ### Statistics
 
