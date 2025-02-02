@@ -1,8 +1,0 @@
-In 2004, Kalpana Chawla Space Technology Cell, IIT Kharagpur was proud
-to host a very eminent guest. Where was this guest born?
-
-Flag Format: `kossCTF{name_of_town}`
-
-Example: `kossCTF{kharagpur}`
-
-solve: [https://webcf.waybackmachine.org/web/20220811070413/http://www.kcstc.iitkgp.ernet.in/eminent_guests.html](https://webcf.waybackmachine.org/web/20220811070413/http://www.kcstc.iitkgp.ernet.in/eminent_guests.html)
